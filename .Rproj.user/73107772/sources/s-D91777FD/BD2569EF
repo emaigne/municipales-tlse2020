@@ -1,0 +1,24 @@
+{
+    "id": "BD2569EF",
+    "path": "~/Documents/perso/municipales_toulouse/server.R",
+    "project_path": "server.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1593433360812.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "cursorPosition": "27,3",
+        "scrollLine": "16"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1593434952,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1593434952063,
+    "read_only": false,
+    "read_only_alternatives": []
+}
